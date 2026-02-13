@@ -7,6 +7,9 @@
   <a href=https://t.me/scadane>
     <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
+  <a>
+    <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 </div>
 
 <h1>
