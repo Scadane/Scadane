@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Telegram-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
   </a>
   <a>
-    <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/hack-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
