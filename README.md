@@ -19,8 +19,6 @@
 
 </div>
 <h3> :woman_technologist: About Me : </h3>
-I am an information security specialist from Russia.
-
 - :telescope: I am studying for a degree in information security at ITMO University.
 
 - :seedling: I study system vulnerabilities.
