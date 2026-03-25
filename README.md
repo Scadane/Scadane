@@ -2,7 +2,7 @@
 
 # Hey there, I'm Kostya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scadane)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/scadane) [![Email](https://img.shields.io/badge/Email-ffae08?style=for-the-badge&logo=maildotru&logoColor=white)](mailto:kostyalsphin@bk.ru)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=scadane&show_icons=true&theme=dark)
 
